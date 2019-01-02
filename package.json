@@ -1,0 +1,16 @@
+{
+  "name": "graphviz2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/graphlib": "^2.1.4",
+    "graphlib": "^2.1.7",
+    "javascript-lp-solver": "^0.4.5",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
+}
